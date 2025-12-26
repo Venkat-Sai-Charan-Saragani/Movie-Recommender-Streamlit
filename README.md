@@ -46,6 +46,18 @@ You can download the `similarity.pkl` file from the link below and place it in t
 - Get a list of similar movies based on content similarity.  
 - Display additional information like poster, release year, rating and overview for each recommended movie using TMDB API or dataset fields.
 
+
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](assets/home.png.png)
+
+### Movie Recommendations
+![Movie Recommendations](assets/recommendations.png.png)
+
+
+
 ## How to Run
 
 1. Clone this repository.  
